@@ -65,4 +65,3 @@ Browse to the following url: https://knldemo.shinyapps.io/shiny_project/
 2. Select the y parameter
 3. The system will plot the variables.
 
---- 
